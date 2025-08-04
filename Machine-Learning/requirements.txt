@@ -1,0 +1,10 @@
+ultralytics
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+opencv-python
+pycocotools
+tqdm
+pyyaml
+matplotlib
+pillow
